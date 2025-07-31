@@ -4,7 +4,7 @@ on:
     branches:
       - main
     paths:
-      - address-form.json
+      - active_filters.json
   workflow_dispatch:
     inputs:
       push_targets:
