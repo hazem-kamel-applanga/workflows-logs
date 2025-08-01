@@ -5,6 +5,7 @@ on:
       - main
     paths:
       - active_filters.json
+      - address-form.json
   workflow_dispatch:
     inputs:
       push_targets:
